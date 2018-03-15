@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareTest</string>
+    <string name="facebook_app_id">224603641451047</string>
+    <string name="facebook_login_protocol_scheme">fb224603641451047</string>
+    <string name="package_name_line">jp.naver.line.android</string>
+    <string name="package_name_facebook">com.facebook.katana</string>
+</resources>
